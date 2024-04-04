@@ -1,0 +1,51 @@
+ /* DAY 2  */
+/* *{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    /* width=border(l&r)+content+padding; */
+
+/* }
+.h{
+    background-color: bisque;
+    /* margin:10px; */
+    /* margin:100px 100px; top&bottom left&right */
+/* margin:0px 20px 30px;
+    padding:10px;
+} */
+/* .hello{
+    margin:0px 20px 10px;
+    background-color: aqua;
+    border:1px solid yellow;
+} */ 
+/* .parent p{
+    background-color: brown;
+    /* padding:33px; */
+    /* width:fit-content;
+} */
+/* .span{
+    background-color: aqua;
+    padding:20px;
+} */ 
+/* .parent{
+    width:200px;
+    text-align:center;
+    background-color: blueviolet;
+    margin:0 0 0 auto;
+} */ 
+
+/* img{
+    display:block;
+    border:1px solid black;
+    margin:0 auto;
+} */
+
+#p2{
+    background-color: aqua;
+}
+.p1{
+    background-color: yellow;
+}
+.p3{
+    background-color: black;
+}

@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+/* .parent{
+    font-size:12px;
+}
+
+.child{
+    /* font-size:16px; */
+     /* font-size:2em; double of parent font size.
+     font-size:2rem;   it depends on root parent i.e,html.
+}  */
+
+/* .btn{
+    display:block;
+    padding:16px;
+    border-radius:8px;
+    border:none;
+    margin:0 auto;
+    font-size:1em;
+    width:8em;
+
+}
+.btn-small{
+    font-size:10px;
+
+} */
+/* body{
+    height:100vh;
+    background-color: blueviolet;
+    width:100vw;
+}
+.parent{
+    height:100px;
+    background-color: aqua;
+}
+.child{
+   min-height:200px;
+   width:25%;
+   background-color: beige;
+   max-height:300px;
+   overflow:scroll;
+
+} */
+
+body{
+    height:100vh;
+    padding:10px 32px;
+    width:100vw;
+}
+
+/* .parent{
+    ol{
+        background-color: blueviolet;
+    } */
+    /* select pseudo class */
+    /* ul:first-child{
+        background-color: antiquewhite;
+    } */
+
+
+    /* ul:last-child{
+background-color: brown; */
+/* li:nth-child(3){
+    background-color:bisque;
+} */
+
+
+/* ul:last-child{
+    li:nth-of-type(4){
+        background-color:blue;
+    } */
+    
+.parent ul{
+background-color: aqua;
+}
+    
+   .parent>ul{
+    background-color: blueviolet;
+   }
+
+   .parent+ul{
+    background-color: brown;
+   }
